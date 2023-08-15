@@ -1,0 +1,19 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10145dbd1dd000169207670100000017310005
+clientId2=10145dbd1dd000169207673200000017310008
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/kalarm_10145dbd1dd000169207673200000017310008_1692080135_489819
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kalarm
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10145dbd1dd000169207670100000017310005_1692080135_489947
+restartCommand2=/usr/bin/kalarm,-session,10145dbd1dd000169207673200000017310008_1692080135_489819
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=theofrid
+userId2=theofrid

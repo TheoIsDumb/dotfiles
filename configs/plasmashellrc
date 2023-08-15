@@ -1,0 +1,88 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnYAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAABfAAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+1920x1080 screen: Height=550
+1920x1080 screen: Width=871
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/wall/10757872.jpg,file:$HOME/Pictures/jj,file:$HOME/Pictures/game wallpapers/power_armour.jpg,file:$HOME/Pictures/wall/2ae9a900a46c8dad1059177abd3b67d9.jpg,file:$HOME/Pictures/wall/videoblocks-wooden-crucifix-cross-at-mountain_hfqmgutkd_thumbnail-1080_02.png,file:$HOME/Pictures/wall/229649.jpg,file:$HOME/Pictures/wall/libadwaita-l.jpg,file:$HOME/Pictures/wall/FCm2q2z.jpg,file:$HOME/Pictures/wall/XCUugcd.jpg,file:$HOME/Pictures/wall/1pjeaJ.jpg,file:$HOME/Pictures/wall/469241-vertical-st-michael-the-archangel-wallpaper-1920x1200-high-resolution.jpg
+Recent URLs[$e]=file:$HOME/Pictures/wall/,file:$HOME/Pictures/,file:$HOME/Documents/,file:$HOME/,file:$HOME/Pictures/game wallpapers/
+detailViewIconSize=16
+iconViewIconSize=128
+
+[PlasmaTransientsConfig]
+PreloadWeight=0
+
+[PlasmaTransientsConfig][ConfigDialog]
+DialogHeight=93
+DialogWidth=1920
+
+[PlasmaViews][Panel 106]
+alignment=1
+floating=1
+panelOpacity=2
+panelVisibility=0
+
+[PlasmaViews][Panel 106][Defaults]
+maxLength=1131
+minLength=831
+offset=0
+thickness=38
+
+[PlasmaViews][Panel 106][Horizontal1920]
+maxLength=1131
+minLength=831
+offset=0
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 207][Defaults]
+thickness=42
+
+[PlasmaViews][Panel 213][Defaults]
+thickness=33
+
+[PlasmaViews][Panel 22][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 232][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 236]
+alignment=2
+floating=1
+panelOpacity=2
+
+[PlasmaViews][Panel 236][Defaults]
+maxLength=790
+minLength=403
+thickness=38
+
+[PlasmaViews][Panel 236][Horizontal1920]
+maxLength=790
+minLength=403
+
+[PlasmaViews][Panel 42][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 62][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 64][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 85][Defaults]
+thickness=50
+
+[ScreenConnectors]
+0=eDP-1
+1=HDMI-1
+2=HDMI-A-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js

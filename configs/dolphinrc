@@ -1,0 +1,57 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[DetailsMode]
+PreviewSize=32
+
+[ExtractDialog]
+DirHistory[$e]=$HOME/.minetest/games/
+eDP-1 Height 1920x1080 eDP-1=720
+eDP-1 Width 1920x1080 eDP-1=1280
+
+[General]
+BrowseThroughArchives=true
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+Version=202
+ViewPropsTimestamp=2022,8,14,15,33,57.051
+
+[IconsMode]
+PreviewSize=192
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/.minetest/games/
+iconViewIconSize=64
+
+[KPropertiesDialog]
+1920x1080 screen: Height=774
+1920x1080 screen: Width=569
+eDP-1 HDMI-1 Height 1920x1080 eDP-1=614
+eDP-1 HDMI-1 Width 1920x1080 eDP-1=523
+eDP-1 Height 1920x1080=644
+eDP-1 Height 1920x1080 eDP-1=606
+eDP-1 Width 1920x1080=523
+eDP-1 Width 1920x1080 eDP-1=538
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=inks,kden
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail
+
+[Search]
+Location=Everywhere
+
+[Shortcut Schemes]
+Current Scheme=Default

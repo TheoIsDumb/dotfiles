@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+<radialGradient gradientUnits="userSpaceOnUse" cx="153.291" cy="380.878" r="7.59734" fx="153.291" fy="380.878" id="gradient1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="1" />
+    <stop offset="0.5" stop-color="#dfe8f2" stop-opacity="1" />
+    <stop offset="1" stop-color="#c2c4c6" stop-opacity="0.74902" />
+</radialGradient>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="none" transform="matrix(2.77778,0,0,2.77778,-1772.22,-852.778)"
+font-family="OnePlus Sans Display Medium" font-size="14" font-weight="570" font-style="normal" 
+>
+<rect x="638" y="307" width="18" height="18"/>
+</g>
+
+<g fill="#363a3f" fill-opacity="1" stroke="none" transform="matrix(2.77778,0,0,2.77778,-1938.89,-852.778)"
+font-family="OnePlus Sans Display Medium" font-size="14" font-weight="570" font-style="normal" 
+opacity="0.261682" >
+<path vector-effect="none" fill-rule="evenodd" d="M706.566,308.123 C702.399,308.123 699.02,311.501 699.02,315.668 C699.02,319.835 702.399,323.214 706.566,323.214 C710.733,323.214 714.111,319.835 714.111,315.668 C714.111,311.501 710.733,308.123 706.566,308.123 M706.566,309.201 C710.138,309.201 713.033,312.096 713.033,315.668 C713.033,319.24 710.138,322.136 706.566,322.136 C702.994,322.136 700.098,319.24 700.098,315.668 C700.098,312.096 702.994,309.201 706.566,309.201 "/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.77778,0,0,2.77778,-1938.89,-852.778)"
+font-family="OnePlus Sans Display Medium" font-size="14" font-weight="570" font-style="normal" 
+opacity="0.5" >
+<path vector-effect="none" fill-rule="evenodd" d="M707.307,308.897 C703.14,308.897 699.761,312.276 699.761,316.443 C699.761,320.61 703.14,323.988 707.307,323.988 C711.474,323.988 714.852,320.61 714.852,316.443 C714.852,312.276 711.474,308.897 707.307,308.897 M707.307,309.975 C710.879,309.975 713.774,312.871 713.774,316.443 C713.774,320.015 710.879,322.91 707.307,322.91 C703.735,322.91 700.839,320.015 700.839,316.443 C700.839,312.871 703.735,309.975 707.307,309.975 "/>
+</g>
+
+<g fill="url(#gradient1)" stroke="none" transform="matrix(2.70162,0,0,2.79986,-389.133,-1053.38)"
+font-family="OnePlus Sans Display Medium" font-size="14" font-weight="570" font-style="normal" 
+opacity="0.5" >
+<path vector-effect="none" fill-rule="evenodd" d="M160.488,385.156 C160.488,388.992 157.266,392.101 153.291,392.101 C149.316,392.101 146.093,388.992 146.093,385.156 C146.093,381.321 149.316,378.212 153.291,378.212 C157.266,378.212 160.488,381.321 160.488,385.156 "/>
+</g>
+
+<g fill="#e1e6eb" fill-opacity="1" stroke="none" transform="matrix(2.77778,0,0,2.77778,-1161.11,-575)"
+font-family="OnePlus Sans Display Medium" font-size="14" font-weight="570" font-style="normal" 
+opacity="0.52549" >
+<path vector-effect="none" fill-rule="evenodd" d="M423.462,217.905 L426.978,214.389 L430.591,217.807 L429.712,218.686 L426.978,216.049 L424.243,218.881 L423.462,217.905"/>
+</g>
+
+<g fill="#25282b" fill-opacity="1" stroke="none" transform="matrix(2.77778,0,0,2.77778,-1161.11,-575)"
+font-family="OnePlus Sans Display Medium" font-size="14" font-weight="570" font-style="normal" 
+opacity="0.345098" >
+<path vector-effect="none" fill-rule="evenodd" d="M423.457,216.634 L426.973,213.119 L430.586,216.537 L429.707,217.415 L426.973,214.779 L424.189,217.464 L423.457,216.634"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(2.77778,0,0,2.77778,-1161.11,-575)"
+font-family="OnePlus Sans Display Medium" font-size="14" font-weight="570" font-style="normal" 
+opacity="0.615741" >
+<path vector-effect="none" fill-rule="evenodd" d="M423.401,217.33 L426.986,213.815 L430.599,217.184 L429.72,218.111 L426.986,215.475 L424.182,218.238 L423.401,217.33"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="OnePlus Sans Display Medium" font-size="14" font-weight="570" font-style="normal" 
+>
+</g>
+</g>
+</svg>
